@@ -20,6 +20,6 @@ The information in this section explains the names of certain computer parts, wh
 * Case - Computer cases house all other internal components. Cases come in wildly different forms and shapes. Technically, computers can be built without the use of a case, for beginners they are required.
 
 # Non-required Components
-Again, to keep this document simple, this section will only list one non-require component, even though there are countless additional components that can be added to commputer builds.
+Again, to keep this document simple, this section will only list one non-required component, even though there are countless additional components that can be added to commputer builds. 
 
-* Video Card or Graphics Processing Unit (GPU) - GPUs are sometimes referred to as graphics or video cards. Graphics cards allow computers to display information on a display
+* Video Card or Graphics Processing Unit (GPU) - GPUs are sometimes referred to as graphics or video cards. Graphics cards allow computers to show information on an external display, like a monitor. Graphics cards allow computers to display more technically complex or visually difficult to render information. Graphics cards are often the second largest single component in a computer after the motherboard. Graphics cards look like smaller motherboards with plastic cases that contain fans to cool the internal components on the circuit board.
