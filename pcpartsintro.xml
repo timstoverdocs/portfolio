@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="computer-parts-intro">
+  <title>Overview of Computer Parts</title>
+  <shortdesc>This topic provides an overview of the main hardware components inside a typical personal computer.</shortdesc>
+
+  <conbody>
+    <p>The information in this document explains the components of a computer and what they do.</p>
+
+    <section>
+      <title>Central Processing Unit (CPU)</title>
+      <p>The CPU is often called the brain of the computer. CPU's manage the information within the computer and directs the information to where it should go. </p>
+    </section>
+
+    <section>
+      <title>CPU Cooler</title>
+      <p>CPU Coolers are components, in the form of metal blocks with copper piping, that attach to motherboards on top of the CPU. CPU Coolers cool CPUs.</p>
+    </section>
+    
+    <section>
+      <title>Motherboard</title>
+      <p>After other components of a computer are attached to a motherboard, those components and the motherboard itself can transfer information from one part to another. </p>
+    </section>
+
+    <section>
+      <title>Random Access Memory (RAM)</title>
+      <p>RAM reads, stores, and changes data. RAM reads/writes are incredibly fast compared to Storage Drives.</p>
+    </section>
+
+    <section>
+      <title>Storage Drives</title>
+      <p>Storage drives store data that can be directly accessed by users.</p>
+    </section>
+
+    <section>
+      <title>Power Supply Unit (PSU)</title>
+      <p>Power supplies input power from an outlet and provide power to the computer.</p>
+    </section>
+
+    <section>
+      <title>Graphics Processing Unit (GPU)</title>
+      <p>GPUs are sometimes referred to as graphics or video cards. Graphics cards allow computers to show information on an external display, like a monitor.</p>
+    </section>
+
+    <section>
+      <title>Case</title>
+      <p>Computer cases house all other internal components.</p>
+    </section>
+
+  </conbody>
+</concept>
