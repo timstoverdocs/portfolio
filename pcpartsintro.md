@@ -1,8 +1,8 @@
 # Before you read
-This document serves as an intrudoction to building computers. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for parts and interoperability between some parts. This document assumes you have no knowledge regarding the physical compnents of computers.
+This document serves as an intrudoction to building computers. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for components and interoperability between some components. This document assumes you have no knowledge regarding the physical components of computers.
 
 # Introduction
-The information in this section explains the names of certain computer parts, what they do, and what they look like, including examples. To keep this document at a beginner level, this document will only list required parts for a computer to function. Optional parts will be listed in another document.
+The information in this section explains the names of certain computer components, what they do, and what they look like, including examples. To keep this document at a beginner level, this document will only list required components for a computer to function. Optional components will be listed in another document.
 
 # Required Components
 * Central Processing Unit (CPU) - The CPU is often called the brain of the computer. CPU's manage the information within the computer and directs the information to where it should go. CPU's are small squares of metal that have smaller raised, polished metal on top of a circuit board type of structure that is often colored. Some CPUs can often include GPUs(see below) as part of their configuration and function. CPUs that contain GPUs are called APUs and can process graphics similar to a dedicated GPU but maintain the size of the CPU. CPUs/APUs are often said to have an iGPU which stands for Integrated Graphics Processing Unit. In order for information from a computer to be display, some sort of GPU, integrated or dedicated, is required.
@@ -17,7 +17,7 @@ The information in this section explains the names of certain computer parts, wh
   <img src="imagefolder/CPUCooler.jpg" alt="CPU" width="300"/>
 </div>
 
-* Motherboard - Motherboards, sometimes referred to as mainboards, are circuit boards that attach to and store the other main parts of a computer. After other parts of a computer are attached to a motherboard, those parts and the motherboard itself can transfer information from one part to another. Motherboards are much larger than CPUs and are often square with physical slots to connect other computers, like the CPU and RAM. Motherboards also connect to the case, or chassis, and allow information to be transferred from devices connect to the case.
+* Motherboard - Motherboards, sometimes referred to as mainboards, are circuit boards that attach to and store the other main components of a computer. After other components of a computer are attached to a motherboard, those components and the motherboard itself can transfer information from one part to another. Motherboards are much larger than CPUs and are often square with physical slots to connect other computers, like the CPU and RAM. Motherboards also connect to the case, or chassis, and allow information to be transferred from devices connect to the case.
 
 <div align="center">
   <img src="imagefolder/motherboard.jpeg" alt="CPU" width="300"/>
