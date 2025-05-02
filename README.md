@@ -14,7 +14,7 @@ The below link shows a technical writing sample describing computer components. 
     * SnagIt: Image capture
  
 * [Intro to PC Parts](pcpartsintro.xml)
-  * Tools used: DITA, XML, AI
+  * Tools used:
     * DITA: Document framework
     * XML: Markup language
     * AI: Format generation
