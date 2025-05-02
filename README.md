@@ -8,6 +8,10 @@ Please click the link(s) below to view relevant files.
 The below link shows a technical writing sample describing computer components.
 
 * [Intro to PC Parts](pcpartsintro.md)
+  * Tools used: Markdown, HTML, SnagIt
+ 
+* [Intro to PC Parts](pcpartsintro.xml)
+  * Tools used: DITA, XML, AI
 
 #### Editing Samples:
 The below links show newspaper covers I've designed in the past.
