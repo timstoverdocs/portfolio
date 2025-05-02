@@ -1,10 +1,11 @@
 # portfolio
 
-This portfolio contains documents that showcase my ability to write within a "docs as code" environment and utilize GitHub.
+This portfolio contains writing samples. This portfolio shows my ability to write "docs as code" and use Github.
 
 Please click the link(s) below to view relevant files.
 
 #### Technical Writing Samples:
+The below link shows a technical writing sample describing computer components.
 
 * [Intro to PC Parts](pcpartsintro.md)
 
