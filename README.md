@@ -32,3 +32,5 @@ The below links show newspaper covers I've designed in the past.
   * Tools used:
     * Microsoft Word: Copy and line editing
     * Adobe InDesign: Formatting and presentation
+    * TownNews/BLOX Digital: Headline writing, story summary writing, and social media posting.
+
