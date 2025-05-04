@@ -35,7 +35,8 @@ The information in this section explains the names of certain computer parts, wh
 </div>
 
 #### Storage 
-* Storage comes in many forms and has many names. Data within a storage device can be accessed by end users. For example, you can see pictures or documents stored within storage and can interact with it. The two most common forms of storage drives are Hard Disk Drives (HDDs) and Solid State Drives (SSDs). Within those two types, there are many forms and and protocols that have different sizes, but that information is better explained in additional document. HDDs are larger devices that contain spinning disks in small metal boxes. You often won't see a spinning disk within an HDD, but can be heard my clicks when an arm is writing information to the disk if powered on. SSDs are solid components that contain even smaller components that look similar to smaller CPUs.
+* Storage comes in many forms and has many names. Data within a storage device can be accessed by end users. For example, you can see pictures or documents stored within storage and can interact with it. The two most common forms of storage drives are Hard Disk Drives (HDDs) and Solid State Drives (SSDs).
+* Within those two types, there are many forms and and protocols that have different sizes, but that information is better explained in additional document. HDDs are larger devices that contain spinning disks in small metal boxes. You often won't see a spinning disk within an HDD, but can be heard my clicks when an arm is writing information to the disk if powered on. SSDs are solid components that contain even smaller components that look similar to smaller CPUs.
  
 <div align="center">
   <img src="imagefolder/ssd.jpg" alt="CPU" width="300"/>
