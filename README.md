@@ -34,3 +34,11 @@ The below links show newspaper covers I've designed in the past.
     * Adobe InDesign: Formatting and presentation
     * TownNews/BLOX Digital: Headline writing, story summary writing, and social media posting.
 
+#### Notion Board
+The below link shows my progress of learning additional programming languages and showcases my ability to use project manangement tools.
+
+  * [Notion Board](https://www.notion.so/1ebc9f5e122180c8906bda15d019c08a?v=1ebc9f5e12218067af43000c97245938&pvs=4)
+
+* Tools Used:
+  * Notion: Project management tracking
+  * freeCodeCamp: HTML, CSS, JavaScript
