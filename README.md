@@ -1,4 +1,4 @@
-# portfolio
+# tim stover portfolio
 
 This portfolio contains writing samples. This portfolio shows my ability to write "docs as code" and use Github.
 
