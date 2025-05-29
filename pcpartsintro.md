@@ -1,8 +1,8 @@
 # Before you read
-This document serves as an intrudoction to building computers. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for components and interoperability between some components. This document assumes you have no knowledge regarding the physical components of computers.
+This document serves as an introduction to computer components. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for components and interoperability between some components. This document assumes you have no knowledge regarding the physical components of computers.
 
 # Introduction
-The information in this section explains the names of certain computer parts, what they do, and what they look like, including examples. To keep this document at a beginner level, this document will only list required parts for a computer to function. 
+The information in this section explains the names of certain computer parts, what they do, and what they look like, including examples. To keep this document at an entry level, this document will only list required parts for a computer to function. 
 
 # Required Components
 #### Central Processing Unit (CPU) 
