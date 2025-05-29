@@ -1,8 +1,8 @@
 # Before you read
-This document serves as an intrudoction to building computers. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for components and interoperability between some components. This document assumes you have no knowledge regarding the physical components of computers.
+This document serves as an introduction to computer components. The document contains the basic components required to physically build a computer. This document does not detail specific requirements for components and interoperability between some components. This document assumes you have no knowledge regarding the physical components of computers.
 
 # Introduction
-The information in this section explains the names of certain computer parts, what they do, and what they look like, including examples. To keep this document at a beginner level, this document will only list required parts for a computer to function. 
+The information in this section explains the names of certain computer parts, what they do, and what they look like, including examples. To keep this document at an entry level, this document will only list required parts for a computer to function. 
 
 # Required Components
 #### Central Processing Unit (CPU) 
@@ -57,7 +57,7 @@ The information in this section explains the names of certain computer parts, wh
 </div>
 
 # Non-required Components
-Again, to keep this document simple, this section will only list one non-required component, even though there are countless additional components that can be added to commputer builds. 
+Again, to keep this document simple, this section will only list one non-required component, even though there are countless additional components that can be added to computer builds. 
 
 ####  Video Card or Graphics Processing Unit (GPU) 
 * GPUs are sometimes referred to as graphics or video cards. Graphics cards allow computers to show information on an external display, like a monitor. Graphics cards allow computers to display more technically complex or visually difficult to render information. Graphics cards are often the second largest single component in a computer after the motherboard. Graphics cards look like smaller motherboards with plastic cases that contain fans to cool the internal components on the circuit board.
