@@ -1,6 +1,6 @@
-# tim stover portfolio
+# Tim Stover Portfolio
 
-This portfolio contains writing samples. This portfolio shows my ability to write "docs as code" and use Github.
+This portfolio shows my work samples and the tools used to create them.
 
 Please click the link(s) below to view relevant files.
 
