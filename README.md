@@ -18,7 +18,12 @@ The below link shows a technical writing sample describing computer components. 
     * DITA: Document framework
     * XML: Markup language
     * AI: Format generation
-    
+
+* [How to Build A Computer](howtobuildapc.md)
+  * Tools used:
+    * Markdown: Markup language
+    * HTML: Image formatting and alignment
+    * SnagIt: Image capture
 
 #### Editing Samples:
 The below links show newspaper covers I've designed in the past.
