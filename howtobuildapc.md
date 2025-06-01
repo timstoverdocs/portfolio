@@ -1,7 +1,12 @@
-#How To Build A Computer: 
-### This document should be used directly proceeding the "Intro to PC Parts" document. The knolwedge obtained in that document is required to better understand the content of this document.
+# How To Build A Computer: 
+#### This document should be used directly proceeding the "Intro to PC Parts" document. The knowledge obtained in that document is required to better understand the content of this document.
 
 [Intro to PC Parts](pcpartsintro.md)
+
+## Article Contents:
+This document details the steps to build a computer from start to finish. 
+
+**Note:** This is only one method to build a computer. The steps don't have to be done exactly in this order. The steps detailed below are good for a beginner because they allow for testing of the components prior to putting them into a case.
 
 ### Required Parts 
 All parts have been explained in the "Intro to PC Parts" document linked above.
@@ -13,11 +18,12 @@ All parts have been explained in the "Intro to PC Parts" document linked above.
 * Storage Drive (HDD or SSD)
 * Graphics Card (GPU)
 * Power Supply Unit (PSU)
-* Case (Chassis)
+* Case
 
 ### Simplified Step by Step Instructions
+
 1. **Place components into motherboard:**
-   * Insert the CPU into the motherboard  
+   * Insert the CPU into the motherboard CPU socket
    * Attach the CPU Cooler to the CPU  
    * Insert RAM into the RAM slots  
    * Install the Storage Drive into the M.2 slot on the motherboard
