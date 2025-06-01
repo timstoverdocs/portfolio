@@ -30,10 +30,11 @@ The below links are samples of my technical writing work.
 #### Product Copy Samples:
 I asked ChatGPT to create a computer company with three laptops. I then wrote the product copy for those laptops.
 
-* [Product Copy]
+* [Product Copy](productcopy.md)
+  
   * Tools used:
     * Markdown: Markup language
-    * AI: Company and product generation
+    * AI: Idea generation
 
 ## Editing Samples:
 The below links show newspaper covers I've designed in the past.
